@@ -1,0 +1,3 @@
+ID,SMILES,y
+ZINC000299839340,COc1ccccc1N1CCN(C(=O)/C=C/c2noc(-c3cc(Cl)c(O)cc3O)c2-c2ccc(O)cc2)CC1,1
+ZINC000084708180,CN(C)C[C@@H](OC(=O)N1Cc2c(n[nH]c2NC(=O)C(C)(C)C(F)(F)F)C1(C)C)c1ccccc1,0
