@@ -1,0 +1,15 @@
+ID,SMILES,y
+ZINC000072117166,CN(C)c1cccc2c(S(=O)(=O)N(C)CC(=O)N(Cc3ccc(C4CCCCC4)cc3)c3ccc(C(=O)O)c(O)c3)cccc12,1
+ZINC000072116971,CN(CC(=O)N(Cc1ccc(C2CCCCC2)cc1)c1ccc(C(=O)O)c(O)c1)S(=O)(=O)c1cccc2cccnc12,1
+ZINC000165747866,Cc1ccc(S(=O)(=O)N(C)CC(=O)N(Cc2ccc(-c3ccc(-c4cccc(C(N)=O)c4)cc3)cc2)c2ccc(C(=O)O)c(O)c2)cc1,1
+ZINC000072116547,CN(CC(=O)N(Cc1ccc(C2CCCCC2)cc1)c1ccc(C(=O)O)c(O)c1)S(=O)(=O)c1cccc2ccccc12,1
+ZINC000165750975,Cc1ccc(S(=O)(=O)N(C)CC(=O)N(Cc2ccc(-c3ccc(-c4cccc(C#N)c4)cc3)cc2)c2ccc(C(=O)O)c(O)c2)cc1,1
+ZINC000084603608,COC(=O)c1cccc(-c2ccc(-c3ccc(CN(C(=O)CN(C)S(=O)(=O)c4ccc(C)cc4)c4ccc(C(=O)O)c(O)c4)cc3)cc2)c1,1
+ZINC000220764198,Cn1c(-c2cccc(NC(=O)C(=O)Nc3ccc(-c4ccsc4)cc3)c2)c(I)c2cc(C(=O)O)c(O)cc21,1
+ZINC000163060375,C/C=C/C=C/C=C/C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@H]1COC(=O)[C@@H]2C[C@@H](C)CN2C(=O)[C@H](C)NC(=O)[C@H](C)N(C)C(=O)[C@@H]2CCCN2C1=O,0
+ZINC000012369272,O=C1Nc2ccccc2/C1=C/c1c[nH]nc1-c1ccccc1[N+](=O)[O-],0
+ZINC000097956664,CC(C)N(CCCNC(=O)Nc1ccc(C(C)(C)C)cc1)C[C@H]1O[C@@H](n2cc(Br)c3c(N)ncnc32)[C@H](O)[C@@H]1O,0
+ZINC000299839340,COc1ccccc1N1CCN(C(=O)/C=C/c2noc(-c3cc(Cl)c(O)cc3O)c2-c2ccc(O)cc2)CC1,0
+ZINC000003781738,C[C@]12O[C@H](C[C@]1(O)CO)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)CNC4=O,0
+ZINC000254075224,N[C@H]1CC[C@H](Cn2nc(-c3ccc(N4CCNCC4)cc3)c3cnc(NCCCc4ccccc4)nc32)CC1,0
+ZINC000028136397,CCCCCCN(C)CNCC(=O)[C@H](CC(=O)O)NC(=O)[C@@H](CC)n1ccnc(NCc2nonc2C)c1=O,0

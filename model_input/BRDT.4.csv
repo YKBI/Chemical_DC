@@ -1,0 +1,5 @@
+ID,SMILES,y
+ZINC000095504909,CC(=O)N1c2ccc(-c3ccc(C(=O)O)cc3)cc2[C@H](Nc2ccc(Cl)cc2)C[C@@H]1C,1
+ZINC000057318556,Cc1sc2c(c1C)C(c1ccc(Cl)cc1)=N[C@@H](CC(=O)OC(C)(C)C)c1nnc(C)n1-2,1
+ZINC000034195840,Cc1nnc2n1-c1ccccc1C(c1ccccc1)=N[C@@H]2NC(=O)OCc1ccccc1,0
+ZINC000003814434,CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,0
